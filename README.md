@@ -36,5 +36,5 @@ root@kali:~#chmod a+x port-scanner.py
 root@kali:~#./port-scanner.py google.com
 Port: 80 is open
 ```
-for Threading basics refer to:
+for Threading basics refer to::
 https://noob-atbash.github.io/threads/
